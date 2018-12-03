@@ -1,0 +1,2 @@
+Lender,Rate,Available
+,0.05,1000
